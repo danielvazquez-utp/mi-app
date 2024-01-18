@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+#root{
+    width: 100%;
+}
+
+h1{
+    color: aqua;
+}
+
+#btn-incrementa{
+    background-color: greenyellow;
+}
+
+#btn-decrementa{
+    background-color: orangered;
+}
+
+#btn-reinicia{
+    background-color: yellow;
+}
+
+.btns {
+    color: black;
+    margin-left: 1px;
+    margin-right: 1px;
+}
